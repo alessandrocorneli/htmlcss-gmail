@@ -1,0 +1,69 @@
+body{
+  margin: 40px;
+  background-image: url(https://www.woodworkerssource.com/mm5/graphics/backgrounds/news-panel-2.jpg);
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  background-size: cover;
+}
+
+.logo{
+  height: 80px;
+  vertical-align: middle;
+}
+
+.Gmail{
+  color: #ffffff;
+  display: inline;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 10px;
+}
+
+#button-search{
+  border-radius: 10%;
+}
+
+.unread{
+  color: #ffffff;
+}
+
+.number{
+  display: inline-block;
+  background-color: rgb(242, 155, 7);
+  text-align: center;
+  line-height: 5px;
+  vertical-align: middle;
+  border-radius: 50%;
+  padding: 15px 5px 15px 5px;
+}
+
+.mail p{
+  display: inline;
+}
+
+.read-mail p{
+  display: inline;
+}
+
+.mail{
+  background-color: #d2d1d1;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.read-mail{
+  background-color: #f1f1f1;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.credits{
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.powered{
+  font-size: 20px;
+  font-style: italic;
+}
